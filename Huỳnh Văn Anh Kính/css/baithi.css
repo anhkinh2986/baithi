@@ -1,0 +1,125 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.header-box{
+    background-color: gainsboro;
+    height: 50px;
+    width: 100%;
+}
+.menu{
+    display: flex;
+    justify-content:space-between;
+}
+.logo img{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 150px;
+    height: 60px;
+    background-position: 0;
+    padding-left: 20px;
+}
+/* .header-box input{
+    margin: 0px 20px;
+    height: 20px;
+    width: 250px;
+    border-radius: 5px;
+    outline: none;
+} */
+.header-box a{
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+}
+.main-menu{
+    margin-top: 10px;
+}
+.main-menu a{
+    font-size: 20px;
+}
+.main-menu a:hover{
+    padding: 7px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: yellow;
+}
+.box-anhchinh img{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    min-height: 400px;
+    background-position: 0;
+}
+.content{
+    margin: 0 auto;
+    width: 80%;
+    /* height: 1500px; */
+    display: flex;
+}
+.content h2{
+    text-align: center;
+}
+.content1{
+    margin-top: 20px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.content2{
+    width: 20%;
+    margin: 20px 100px;
+
+}
+.content2 img{
+    height: 200px;
+}
+.title-content{
+    margin: 0 auto;
+    width: 80%;
+}
+.title-content h2{
+    text-align: center;
+    font-size: 30px;
+}
+.heading-text{
+    margin: 0 auto;
+    width: 80%;
+}
+.heading-text h2{
+    text-align: center;
+}
+.heading-anh2 img{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 40%;
+    height: 250px;
+}
+.heading-text2{
+    margin-left: 500px;
+    height: 200px;
+    margin-top: -200px;
+}
+footer{
+    text-align: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: gray;
+    color: white;
+}
+footer h2{
+    color: red;
+}
+.text1{
+    width: 40%;
+    height: 200px;
+}
+.box-footer{
+    width: 100%;
+    height: 20px;
+    background-color: rgb(255, 174, 0);
+    text-align: center;
+}
