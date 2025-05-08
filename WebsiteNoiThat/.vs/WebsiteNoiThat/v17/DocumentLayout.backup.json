@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#4\\WebsiteNoiThat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|e:\\c#4\\websitenoithat\\websitenoithat\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\views\\registerandlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\registerandlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\common\\neworder.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\common\\neworder.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\views\\cart\\historycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\cart\\historycart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\contact\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|E:\\C#4\\WebsiteNoiThat\\models\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|E:\\C#4\\WebsiteNoiThat\\models\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|E:\\C#4\\WebsiteNoiThat\\models\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\models\\usermodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\models\\usermodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\areas\\admin\\views\\order\\indexbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\areas\\admin\\views\\order\\indexbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|E:\\C#4\\WebsiteNoiThat\\websitenoithat\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E199E9F-EE11-46AD-B40F-BE68E855CDED}|WebsiteNoiThat\\WebsiteNoiThat.csproj|solutionrelative:websitenoithat\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|E:\\C#4\\WebsiteNoiThat\\models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|E:\\C#4\\WebsiteNoiThat\\models\\ef\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\ef\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|E:\\C#4\\WebsiteNoiThat\\models\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|E:\\C#4\\WebsiteNoiThat\\models\\dao\\newsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D3578A-69F6-4A29-AAC3-32EE62976DDF}|Models\\Models.csproj|solutionrelative:models\\dao\\newsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:55:44.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\RegisterAndLogin\\Login.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:57:51.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T05:12:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistoryCart.cshtml",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Cart\\HistoryCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:47:34.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T02:51:02.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:26:04.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\Models\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Models\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\Models\\Properties\\AssemblyInfo.cs*",
+              "RelativeToolTip": "Models\\Properties\\AssemblyInfo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:54:45.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "neworder.html",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Common\\neworder.html",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Common\\neworder.html",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Common\\neworder.html",
+              "RelativeToolTip": "WebsiteNoiThat\\Common\\neworder.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-03T13:47:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IndexById.cshtml",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Order\\IndexById.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Views\\Order\\IndexById.cshtml",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Views\\Order\\IndexById.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Views\\Order\\IndexById.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:39:00.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Contact\\Contacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:23:03.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserModelView.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\UserModelView.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Models\\UserModelView.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\UserModelView.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Models\\UserModelView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:52:38.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Models\\UserModel.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Models\\UserModel.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Models\\UserModel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:52:33.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T05:37:32.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAgwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:16:15.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\Models\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\EF\\Product.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\Models\\EF\\Product.cs",
+              "RelativeToolTip": "Models\\EF\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:16:08.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\Models\\EF\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\EF\\Category.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\Models\\EF\\Category.cs",
+              "RelativeToolTip": "Models\\EF\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:16:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewsDao.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\Models\\DAO\\NewsDao.cs",
+              "RelativeDocumentMoniker": "Models\\DAO\\NewsDao.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\Models\\DAO\\NewsDao.cs",
+              "RelativeToolTip": "Models\\DAO\\NewsDao.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:15:41.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\Models\\EF\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\EF\\Order.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\Models\\EF\\Order.cs",
+              "RelativeToolTip": "Models\\EF\\Order.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:15:34.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\Models\\DAO\\ProductDao.cs",
+              "RelativeDocumentMoniker": "Models\\DAO\\ProductDao.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\Models\\DAO\\ProductDao.cs",
+              "RelativeToolTip": "Models\\DAO\\ProductDao.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:14:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:15:01.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Controllers\\ContactController.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAACsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:12:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\Models\\App.config",
+              "RelativeDocumentMoniker": "Models\\App.config",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\Models\\App.config",
+              "RelativeToolTip": "Models\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T01:42:17.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Global.asax.cs",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Global.asax.cs",
+              "RelativeToolTip": "WebsiteNoiThat\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:25:48.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Web.config",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Web.config",
+              "RelativeToolTip": "WebsiteNoiThat\\Web.config",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAH8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T01:25:43.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\packages.config",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\packages.config",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\packages.config",
+              "RelativeToolTip": "WebsiteNoiThat\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-03T01:25:42.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteNoiThat\\Views\\Web.config",
+              "ToolTip": "E:\\C#4\\WebsiteNoiThat\\WebsiteNoiThat\\Views\\Web.config",
+              "RelativeToolTip": "WebsiteNoiThat\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-11T02:55:13.429Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
